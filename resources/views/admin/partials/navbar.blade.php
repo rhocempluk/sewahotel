@@ -26,6 +26,8 @@
               </div>
               <div class="preview-item-content">
               <p class="preview-subject mb-1">halo elmo disini</p>
+                  <p class="preview-subject mb-1">Zaidan joined 🗿</p>
+                  
               </div>
             </a>
             <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
