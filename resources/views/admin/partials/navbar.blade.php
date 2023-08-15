@@ -25,7 +25,7 @@
                 </div>
               </div>
               <div class="preview-item-content">
-              <p class="preview-subject mb-1">Log out</p>
+              <p class="preview-subject mb-1">halo elmo disini</p>
               </div>
             </a>
             <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
